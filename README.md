@@ -6,6 +6,8 @@
 
 [更新记录](CHANGELOG.md) · [1.0.10 更新公告](docs/releases/1.0.10.md) · [构建指南](docs/BUILDING.md) · [贡献与提交规范](CONTRIBUTING.md) · [格式兼容性](docs/COMPATIBILITY.md)
 
+非官方编辑器运行时扩展源码见 [Mods](Mods/README.md)；插件不随 Unity 编辑器核心默认启用。
+
 ## 当前功能
 
 - 编辑 Tap、Hold、SkyArea、Flick；属性与原始语句编辑，多选、完整段落选择、撤销和重做。
