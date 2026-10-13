@@ -1,0 +1,18 @@
+# Preserve the existing source/fixture bytes, BOM and line endings on all systems.
+# -text disables newline conversion, not textual diffs.
+* -text
+
+# New public documentation uses LF; Unity source is intentionally not normalized.
+*.md text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ogg binary
+*.mp3 binary
+*.wav binary
+*.ttf binary
+*.otf binary
+*.dll binary

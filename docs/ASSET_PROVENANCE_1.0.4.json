@@ -1,0 +1,84 @@
+{
+  "release": "1.0.4",
+  "use": "User-supplied texture atlases, unmodified. UV fitting and alpha implemented separately; screenshot-based Tap/Sky are procedural approximations.",
+  "textures": [
+    {
+      "source": "蓝hold未激活时.png",
+      "resource": "BlueInactive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "d89d62a330a47992111a0d5067fed17e31f7a9739f42c3caefc8414ac6f5a1b8"
+    },
+    {
+      "source": "蓝hold激活时.png",
+      "resource": "BlueActive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "8b4a2ccaf1b4a3729dd4e0b894dbf0ac927f7d78ebe35696b448c377fce3f255"
+    },
+    {
+      "source": "紫hold未激活时.png",
+      "resource": "PurpleInactive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "15711002e52e847a7590c88ecec703f16043153e41b27d45ad36d5144dcd6e8a"
+    },
+    {
+      "source": "紫hold激活时.png",
+      "resource": "PurpleActive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "7821a546ef9f8c8d75e65f4ca2293164e65a3c2e3e9253c600a8417278ed4882"
+    },
+    {
+      "source": "红hold未激活时.png",
+      "resource": "PinkInactive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "d8ada44507414849eaae44c3d7b808f77f810ec65fe5e39fa71b4f7993d5ea22"
+    },
+    {
+      "source": "红hold激活时.png",
+      "resource": "PinkActive",
+      "size": [
+        2048,
+        2048
+      ],
+      "alpha_range": [
+        255,
+        255
+      ],
+      "sha256": "d59be6f8352d2478f5224a013c8350e830b3b332845e4173f10cfaf593155554"
+    }
+  ]
+}

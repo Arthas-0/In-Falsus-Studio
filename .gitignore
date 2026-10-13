@@ -1,0 +1,55 @@
+# Unity-generated files (keep Assets, Packages and ProjectSettings).
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/[Tt]est[Rr]esults/
+/[Aa]rtifacts/
+
+# Song audio imported while using the editor is a local, regenerable cache.
+/Assets/InFalsusStudioUser/
+/Assets/InFalsusStudioUser.meta
+**/.ifstudio/
+
+# IDE and machine-local files.
+/.vs/
+/.idea/
+/.vscode/
+/.vsconfig
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.log
+sysinfo.txt
+crashlytics-build.properties
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Credentials must never be stored in the repository.
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.key
+*.keystore
+
+# Archives and personal working copies belong outside the source repository.
+/Archive/
+*.zip
+*.7z
+*.unitypackage
