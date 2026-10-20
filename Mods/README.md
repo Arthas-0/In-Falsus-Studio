@@ -1,9 +1,10 @@
 # 非官方编辑器运行时扩展
 
-这里保存面向 InFalsus Studio Windows 1.0.10 的 BepInEx 插件源码。插件由独立发行包安装，不属于 Unity 编辑器核心；不修改谱面语法、谱面保存或官方导出格式。
+这里保存面向 InFalsus Studio Windows 1.0.10 的 BepInEx 插件源码。插件由独立发行包安装，不属于 Unity 编辑器核心，也不修改官方核心代码。部分社区插件会在编辑器侧增加非官方谱面扩展；这类语法及导出限制必须在对应插件的兼容说明中明确记录。
 
 当前配套版本：
 
+- [Visual & UI 1.0.39](VisualUI/1.0.39/README.md)：组合视觉与制谱器功能插件，附带时间组兼容说明和三个默认外置 Timing 工具。该源码节点不包含 DLL、BepInEx 依赖或游戏提取资源。
 - [Better UI 1.2.2](BetterUI/1.2.2/README.md)：改进制谱器 UI。
 - [Native Visual 1.1.15](NativeVisual/1.1.15/README.md)：还原原生轨道、HUD 与背景视觉，并提供美化进度条。
 

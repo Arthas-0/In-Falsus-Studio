@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "values": [
+    {
+      "key": "eventType",
+      "value": "both"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "values": [
+    {
+      "key": "eventType",
+      "value": "both"
+    },
+    {
+      "key": "target",
+      "value": "0"
+    }
+  ]
+}
