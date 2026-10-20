@@ -11,6 +11,12 @@
 /[Tt]est[Rr]esults/
 /[Aa]rtifacts/
 
+# BepInEx plugin build output; source and authored icons are tracked.
+/Mods/**/NativeEditorUI.dll
+/Mods/**/NativeVisualMod.dll
+/Mods/**/bin/
+/Mods/**/obj/
+
 # Song audio imported while using the editor is a local, regenerable cache.
 /Assets/InFalsusStudioUser/
 /Assets/InFalsusStudioUser.meta

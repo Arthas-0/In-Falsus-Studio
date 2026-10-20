@@ -10,5 +10,7 @@
 | `Editor/CountRegression103`、`Editor/VisualRegression104` 及示例谱面 | 现有谱面回归/示例数据，保留格式兼容性检查用途；不包含个人完整歌曲音频缓存 |
 | Unity / URP / 其他 Unity 包 | 版本见 `Packages/manifest.json` 和 `packages-lock.json`，许可按各包随附声明 |
 | 字体 | 应用使用系统字体回退；仓库不捆绑字体文件 |
+| `Mods/BetterUI/1.2.2/Icons` | Better UI 插件配套的界面图标；随插件源码保留。 |
+| Native Visual 运行资源 | 原版 AssetBundle、字体和游戏界面图未纳入本仓库；配套 mod 发行包从本机 InFalsus Studio 1.0.10 提取并提供，不在此重复分发。 |
 
 原游戏名称、素材及参考谱面仍属于各自权利人。本编辑器的社区维护和壳子扩展不表示官方背书。新增第三方代码、素材或数据时，记录作者、来源、许可证及必要的版权/署名信息；不要把其他项目的代码许可证套用到其素材上。
