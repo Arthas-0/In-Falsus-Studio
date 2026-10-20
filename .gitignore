@@ -14,6 +14,7 @@
 # BepInEx plugin build output; source and authored icons are tracked.
 /Mods/**/NativeEditorUI.dll
 /Mods/**/NativeVisualMod.dll
+/Mods/**/InfStudioVisualUI.dll
 /Mods/**/bin/
 /Mods/**/obj/
 

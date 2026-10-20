@@ -11,6 +11,7 @@
 | Unity / URP / 其他 Unity 包 | 版本见 `Packages/manifest.json` 和 `packages-lock.json`，许可按各包随附声明 |
 | 字体 | 应用使用系统字体回退；仓库不捆绑字体文件 |
 | `Mods/BetterUI/1.2.2/Icons` | Better UI 插件配套的界面图标；随插件源码保留。 |
+| `Mods/VisualUI/1.0.39` | Visual & UI 组合插件及 GradientTiming、DeleteTiming、CopyTiming 外置工具源码；不包含提取的原生图集、AssetBundle、字体或 BepInEx 二进制。该节点的作者性代码由社区维护者提供；不为原游戏语法、名称或素材声明权利。 |
 | Native Visual 运行资源 | 原版 AssetBundle、字体和游戏界面图未纳入本仓库；配套 mod 发行包从本机 InFalsus Studio 1.0.10 提取并提供，不在此重复分发。 |
 
 原游戏名称、素材及参考谱面仍属于各自权利人。本编辑器的社区维护和壳子扩展不表示官方背书。新增第三方代码、素材或数据时，记录作者、来源、许可证及必要的版权/署名信息；不要把其他项目的代码许可证套用到其素材上。
